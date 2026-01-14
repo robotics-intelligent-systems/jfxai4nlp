@@ -1,3 +1,3 @@
 # Artificial Intelligence in Natural Language Processing
 
-OOASP is a schema for describing object-oriented models with Answer Set Programming. Permazen is a Language-Natural Persistence Layer for Java. DKPro Core is a collection of software components for (NLP) based on the Apache UIMA framework. The Spring AI project provides a Spring-friendly API and abstractions for developing AI applications.
+OOASP is a schema for describing object-oriented models with Answer Set Programming. OpenVINO is an open source toolkit for optimizing and deploying AI inference. Permazen is a Language-Natural Persistence Layer for Java. DKPro Core is a collection of software components for (NLP) based on the Apache UIMA framework. The Spring AI project provides a Spring-friendly API and abstractions for developing AI applications.
