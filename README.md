@@ -1,4 +1,17 @@
-# JFXAI4NLP
+<p align="center">
+  <img
+    src="from-language-to-impact.jpg"
+    alt="JFXAI4NLP — Open Source NLP, LLM, Agent and Engineering Intelligence Architecture"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>
+    From human language to real-world impact through NLP, LLMs, AI agents,
+    retrieval, code intelligence, and engineering integration.
+  </em>
+</p>
 
 ## AI-Powered Natural Language Processing, LLM, Agent & Engineering Intelligence Platform
 
@@ -53,21 +66,6 @@
 36. [Strategic Vision](#36-strategic-vision)
 
 ---
-
-<p align="center">
-  <img
-    src="from-language-to-impact.jpg"
-    alt="JFXAI4NLP — Open Source NLP, LLM, Agent and Engineering Intelligence Architecture"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <em>
-    From human language to real-world impact through NLP, LLMs, AI agents,
-    retrieval, code intelligence, and engineering integration.
-  </em>
-</p>
 
 # 1. Overview
 
